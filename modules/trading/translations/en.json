@@ -1,0 +1,19 @@
+/* Module World of GZ*/
+
+/* Magic Mirror
+ * Module: Trading
+ * Version : 1.0
+ *
+ * By World Of GZ http://www.worldofgz.com
+ * MIT Licensed.
+ */
+
+{
+  "LOADING": "Loading",
+  "errorData": "Unable to retrieve the Json file",
+  "errorApiData": "Please set the correct <i>apiData</i> in the config for module Trading",
+  "errorApiTimeLenght": "Please set the correct <i>apiTimeLenght</i> in the config for module Trading",
+  "errorRefresh": "Please set the correct <i>refresh</i> in the config for module Trading",
+  "date": "Date",
+  "number": "Rate"
+}
